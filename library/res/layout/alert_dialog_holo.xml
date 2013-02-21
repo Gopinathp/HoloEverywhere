@@ -16,7 +16,7 @@
 			android:id="@+id/titleDividerTop"
 			android:layout_width="match_parent"
 			android:layout_height="2dip"
-			android:background="@color/holo_blue_light"
+			android:background="@color/holo_red_light"
 			android:visibility="gone" />
 		<LinearLayout
 			android:id="@+id/title_template"
@@ -45,7 +45,7 @@
 			android:id="@+id/titleDivider"
 			android:layout_width="match_parent"
 			android:layout_height="2dip"
-			android:background="@color/holo_blue_light"
+			android:background="@color/holo_red_light"
 			android:visibility="gone" />
 	</LinearLayout>
 	<LinearLayout

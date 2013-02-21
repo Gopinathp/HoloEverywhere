@@ -370,7 +370,7 @@
         <item name="android:textSize">22sp</item>
     </style>
     <style name="Holo.TextAppearance.DialogWindowTitle.Light" parent="Holo.TextAppearance.Light">
-        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:textColor">@color/holo_red_light</item>
         <item name="android:textSize">22sp</item>
     </style>
     <style name="Holo.TextAppearance.DropDownItem">
